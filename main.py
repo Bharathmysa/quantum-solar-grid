@@ -4,7 +4,7 @@ import random
 
 print("\n QUANTUM OPTIMIZED Energy grid simulator \n")
 # Generate random energy demand for users
-cities = {
+users = {
     "user1": random.randint(50, 100),
     "user2": random.randint(50, 100),
     "user3": random.randint(50, 100),
